@@ -1,11 +1,11 @@
 AnjoCaido-Launcher
 ==================
 
-AnjoCaido-лаунчер для minecraft обновлённый Sinrel Group
+AnjoCaido-launcher for minecraft updated by Sinrel Group
 
-##Преимущества перед оригиналом:##
-- Полная русификация
-- Наличие автозахода
-- Выделение памяти
-- Наличение возможности настройки сервера обновлений
-- Наличие Backup менеджера
+# # The advantages over the original: # #
+- Full Russification
+- Availability avtozahoda
+- Allocation
+- Nalichenie customization update server
+- Availability Backup Manager
